@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/nithi/AndroidStudioProjects/Todo2/app/src/main/res/layout/activity_main.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/nithi/AndroidStudioProjects/Todo2/app/src/main/res/layout-land/activity_main.xml" value="0.4083333333333333" />
+        <entry key="..\:/Users/nithi/AndroidStudioProjects/Todo2/app/src/main/res/layout/activity_main.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/nithi/AndroidStudioProjects/Todo2/app/src/main/res/layout/layout2.xml" value="0.2965811965811966" />
         <entry key="..\:/Users/nithi/AndroidStudioProjects/Todo2/app/src/main/res/menu/main_menu.xml" value="0.29743589743589743" />
       </map>
     </option>
